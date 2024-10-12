@@ -1,0 +1,18 @@
+.input {
+    font-family: inherit;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(28,28,30);
+    color: #fff;
+    max-width: 190px;
+    outline: none;
+    transition: box-shadow 0.4s ease;
+    margin-right: 40px;
+    box-shadow: 0 0 0 3px #ccbb5a;
+  }
+  
+  .input:focus {
+    box-shadow: 0 0 0 3px #FFD700;
+  }
